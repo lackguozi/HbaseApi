@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="Recfood:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Recfood_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Recfood.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="Recfood" />
+      </element>
+    </root>
+  </artifact>
+</component>
