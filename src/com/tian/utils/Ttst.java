@@ -7,6 +7,7 @@ package com.tian.utils;
 public class Ttst {
     public static void main(String[] args)  {
         Hbase test= Hbase.getInstance();
+        
         test.put("hbase_test", "002", "info", "name", "john");
         System.out.println("charuchengong");
 
